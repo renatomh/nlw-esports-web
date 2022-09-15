@@ -22,6 +22,9 @@ During the development of this project, the following techologies were used:
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Radix UI](https://www.radix-ui.com/)
+- [Phosphor Icons](https://phosphoricons.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Project Configuration
 
