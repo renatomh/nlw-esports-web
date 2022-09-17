@@ -13,7 +13,8 @@ This project was developed during the RocketSeat's Next Level Week - eSports eve
 
 ## 💹 Extras
 
-*
+* Added image carousel;
+* Added simple validation to the form;
 
 ## 🛠 Technologies
 
@@ -24,6 +25,7 @@ During the development of this project, the following techologies were used:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Radix UI](https://www.radix-ui.com/)
 - [Phosphor Icons](https://phosphoricons.com/)
+- [Keen-Slider](https://keen-slider.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Project Configuration
