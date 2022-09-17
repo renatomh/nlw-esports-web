@@ -11,6 +11,8 @@ This project was developed during the RocketSeat's Next Level Week - eSports eve
 * Available games listing;
 * New advertisements creation;
 
+<p align="center"><img src=".github/sample.gif" alt="notification" /></p>
+
 ## 💹 Extras
 
 * Added image carousel;
