@@ -38,10 +38,6 @@ During the development of this project, the following techologies were used:
 $ yarn
 ```
 
-## 🌐 Setting up config files
-
-...
-
 ## ⏯️ Running
 
 To run the project in a development environment, execute the following command on the root directory.
@@ -49,11 +45,6 @@ To run the project in a development environment, execute the following command o
 ```bash
 $ yarn dev
 ```
-
-## 🔨 Project's *Build* for *Deploy*
-
-In order to deploy the app online, there are some steps to be done...
-
 ### Documentation:
 * [Installation: Tailwind CLI - Tailwind CSS](https://tailwindcss.com/docs/installation)
 
